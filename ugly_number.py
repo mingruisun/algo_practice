@@ -61,18 +61,18 @@ def uglyNum_BottomUp(n):
         if dp[i] == n2:
             i2 += 1
             n2 = dp[i2] * 2
-        elif dp[i] == n3:
+        if dp[i] == n3:
             i3 += 1
             n3 = dp[i3] * 3
-        elif dp[i] == n5:
+        if dp[i] == n5:
             i5 += 1
             n5 = dp[i5] * 5
     print(dp)
     return dp[n-1]
 
-print(uglyNum_BottomUp(4))
+print(uglyNum_BottomUp(11))
 
-def uglyNum_TopDown(n):
+# def uglyNum_TopDown(n):
 
 # driver
 # for _ in range(int(input())):
@@ -81,4 +81,3 @@ def uglyNum_TopDown(n):
 #     str2_size = temp[1]
 #     str1 = input()
 #     str2 = input()
-#
