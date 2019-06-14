@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e66fda-8339-4eb0-ad41-05a55a2eb8e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coin_change_dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/friends_pairing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends_pairing.py" beforeDir="false" afterPath="$PROJECT_DIR$/friends_pairing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +13,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/algo_practice$gold_mine_dp.coverage" NAME="gold_mine_dp Coverage Results" MODIFIED="1560224704549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algo_practice$coin_change_dp.coverage" NAME="coin_change_dp Coverage Results" MODIFIED="1560317684051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algo_practice$friends_pairing.coverage" NAME="friends_pairing Coverage Results" MODIFIED="1560486302335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algo_practice$bell_number_dp.coverage" NAME="bell_number_dp Coverage Results" MODIFIED="1559961869975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algo_practice$binomial_coeff.coverage" NAME="binomial_coeff Coverage Results" MODIFIED="1559962556329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algo_practice$catalan_number.coverage" NAME="catalan_number Coverage Results" MODIFIED="1559620477698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -83,7 +82,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/friends_pairing.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -477,19 +480,19 @@
       <workItem from="1559938481893" duration="2000" />
       <workItem from="1559961649953" duration="13109000" />
       <workItem from="1560309230123" duration="5897000" />
-      <workItem from="1560482208805" duration="374000" />
+      <workItem from="1560482208805" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26819000" />
+    <option name="totallyTimeSpent" value="27684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="984" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.08413205" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.08413205" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32923833" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -497,7 +500,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.3293979" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.20876586" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.20828539" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3979239" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -640,7 +643,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/friends_pairing.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
